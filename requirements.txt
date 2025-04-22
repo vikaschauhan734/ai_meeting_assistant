@@ -1,0 +1,7 @@
+# LangChain
+langchain
+langchain-core
+langchain-groq
+
+# Environment Variable Management
+python-dotenv
